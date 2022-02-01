@@ -1,0 +1,62 @@
+/*CSS variables */
+:root{
+  --grey: #c9c9c9;
+  --primary:blue;
+}
+header{
+  background-color:var(--grey);
+  justify-content: flex-end;
+  padding: 1rem
+}
+h1{
+  color: red;
+}
+.vertical{
+  display: flex;
+  flex-direction: column;
+ 
+}
+
+h1, h2, h3, p{
+  margin:0;
+}
+
+h2{
+  color: var(--primary);
+  padding: 5 rem;
+  display:inline;
+
+}
+
+h2, h3{
+  color: var(--primary)
+}
+
+body{
+  margin: 0;
+}
+
+.cover-photo{
+  height: 400px;
+  width: 300px;
+  object-fit:cover;
+  transform: translateY(30px)
+}
+
+.d-flex{
+  display: flex;
+}
+
+.mt-5{
+  margin-top: 5em;
+}
+
+.left-section{
+  padding: 1em;
+  text-align: right;
+}
+
+.catergory h2{
+  margin: 0 0 1em 0
+}
+
