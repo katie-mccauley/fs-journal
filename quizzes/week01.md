@@ -38,7 +38,7 @@ Casacading Style Sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-The color: makes a componet in css because it is text color, rgba color, and the class for css of the text color main-title
+The color: makes a componet in css because it is text color, rgba color, and the class for css of the text color main-title, also this contains an element and a class for the text to be the text color
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
@@ -62,7 +62,7 @@ ol(ordered list), ul(unordered list), dl(description list)
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-The display is in the center from left to right so it is justify-content-center
+flex:property can change the row and column direction, [row, row-reverse, column, column-reverse]
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
