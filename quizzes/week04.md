@@ -3,22 +3,22 @@
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
 <!-- enter you answer in the space below -->
 ```
-
+synchronous classes run at one at a time and asynchronous code can move to another task before the prvious one finishes and able to deal with multiple requests simultaneously
 ```
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
 ```
-
+A procedure that waits for an event to occur
 ```
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Open-close principle- objects that can be open for extension but closed for modification 
 ```
 **4.** What is a callback / higher order function?
 <!-- enter you answer in the space below -->
 ```
-
+A callback is a function passed as an arugment to another function
 ```
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
