@@ -23,35 +23,35 @@ A callback is a function passed as an arugment to another function
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
 ```
-
+A promise is when there a request for a method inside of a function. If there is an error, in the catch statement do console.error(error)
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
 ```
-
+post-create, delete-delete, and put-updates
 ```
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Application Programming Interface
 ```
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->
 ```
-
+the service and also good to keep the axios links in the axios service 
 ```
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
 ```
-
+The purpose of encapsulation is to organize files better by having each of then having purpose. One for sending data, manipulating, holding data
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-
+HTTP 200 response
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
-
+the server expected an unexpected condition that prevented it from fulfilling the request 
 ```
